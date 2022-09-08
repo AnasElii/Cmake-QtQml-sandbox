@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CMake objects and libs
 CMakeLists.txt.user
 CMakeCache.txt
@@ -16,6 +17,8 @@ _deps
 build/
 
 
+=======
+>>>>>>> 411f3f4b06a6d8249a79423ecf65474bde8eb8f2
 # C++ objects and libs
 *.slo
 *.lo
@@ -50,6 +53,7 @@ Makefile*
 *.qm
 *.prl
 
+<<<<<<< HEAD
 
 # Qt unit tests
 target_wrapper.*
@@ -59,10 +63,19 @@ target_wrapper.*
 *.autosave
 
 
+=======
+# Qt unit tests
+target_wrapper.*
+
+# QtCreator
+*.autosave
+
+>>>>>>> 411f3f4b06a6d8249a79423ecf65474bde8eb8f2
 # QtCreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
 
+<<<<<<< HEAD
 
 # QtCreator CMake
 CMakeLists.txt.user*
@@ -77,3 +90,13 @@ compile_commands.json
 
 
 *_qmlcache.qrc
+=======
+# QtCreator CMake
+CMakeLists.txt.user*
+
+# QtCreator 4.8< compilation database 
+compile_commands.json
+
+# QtCreator local machine specific files for imported projects
+*creator.user*
+>>>>>>> 411f3f4b06a6d8249a79423ecf65474bde8eb8f2
